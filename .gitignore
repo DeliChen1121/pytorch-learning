@@ -6,3 +6,4 @@ checkpoints/
 *.pt
 *.pth
 class_code/
+learning-materials/ML_fundamentals.pdf
