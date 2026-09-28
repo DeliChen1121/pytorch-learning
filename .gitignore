@@ -1,2 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
 data/
+DeliChen1121/pytorch-learning/data/
 checkpoints/
+*.pt
+*.pth
+class_code/
